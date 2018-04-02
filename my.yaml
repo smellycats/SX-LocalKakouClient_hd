@@ -1,0 +1,10 @@
+hd:
+  host: 10.47.123.123
+  port: 8284
+ys:
+  host: 10.47.123.123
+  port: 8288
+consul:
+  ttl: 30
+  lock_name: local-kakou-hd-lock
+step: 200
